@@ -10,6 +10,8 @@ N/A
 
 ## Usage
 
+![Book-Research](image-1.png)
+
 GitHub Link: https://github.com/Gunther0662/Book-Research
 
 ## Credits
