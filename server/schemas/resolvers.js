@@ -34,7 +34,7 @@ const resolvers = {
 
             const token = signToken(profile);
             return { token, profile };
-         };
+         },
 
          addSkill: async (parent, { profileId, skill }) => {
             return Profile.findOneAndUpdate(
